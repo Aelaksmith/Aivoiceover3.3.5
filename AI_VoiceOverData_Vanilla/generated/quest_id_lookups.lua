@@ -6972,7 +6972,150 @@ AI_VoiceOverData_Vanilla.QuestIDLookup = {
 			["Reavij"] = 9770,
 
 },
+["Minions of the Shadow Council"] = 	{
+			["Stormer Ewan Wildwing"] = 10582,
+			["Scout Zagran"] = 10600,
 
+},
+
+["Mission: The Abyssal Shelf"] = 	{
+			["Wing Commander Gryphongar"] = 10163,
+			["Forward Commander To'arch"] = 10162,
+
+},
+["Mog'dorg the Wizened"] = 	{
+			["Grok"] = 10983,
+			["Chort"] = 10989,
+},
+["Murkblood Invaders"] =	9871,
+["News of Victory"] = 	{
+			["Plexi"] = 10744,
+			["Nakansi"] = 10745,
+},
+["Now This is Ram Racing... Almost"] = 	{
+			["Neill Ramstein"] = 11318,
+			["Ram Master Ray"] = 11409,
+},
+["Oshu'gun Crystal Powder"] = 	{
+			["Chief Researcher Amereldine"] = 10582,
+			["Chief Researcher Kartos"] = 10600,
+
+},
+["Playing with Fire"] =	11882,
+["Protecting Our Own"] = 	{
+			["Rina Moonspring"] = 10457,
+			["Gor'drek"] = 10488,
+},
+["Report to Nazgrel"] = 	{
+			["General Krakork"] = 10291,
+			["Apothecary Antonivich"] = 10875,
+},
+["Restorer No More"] = 	{
+			["Archmage Leryda"] = 11034,
+			["Soridormi"] = 11104,
+},
+["Return to the Abyssal Shelf"] = 	{
+			["Gryphoneer Windbellow"] = 10346,
+			["Wing Commander Brack"] = 10347,
+},
+["Setting Up the Bomb"] = 	{
+			["Wing Commander Nuainn"] = 10572,
+			["Blood Guard Gulmok"] = 10597,
+},
+["Showdown"] = 	{
+			["Rexxar"] = 10742,
+			["Baron Sablemane"] = 10806,
+},
+["Shutting Down Manaforge Ara"] = 	{
+			["Anchorite Karja"] = 10323,
+			["Spymaster Thalodien"] = 10365,
+},
+["Shutting Down Manaforge B'naar"] = 	{
+			["Anchorite Karja"] = 10299,
+			["Spymaster Thalodien"] = 10329,
+},
+["Shutting Down Manaforge Coruu"] = 	{
+			["Anchorite Karja"] = 10321,
+			["Caledis Brightdawn"] = 10330,
+},
+["Shutting Down Manaforge Duro"] = 	{
+			["Anchorite Karja"] = 10322,
+			["Spymaster Thalodien"] = 10338,
+},
+["Slaughter at Boulder'mok"] = 	{
+			["Tor'chunk Twoclaws"] = 10786,
+			["Lieutenant Fairweather"] = 10803,
+},
+["Sunfury Signets"] = 	{
+			["Magistrix Fyalenn"] = 10656,
+			["Battlemage Vyara"] = 10824,
+},
+["Tabards of the Illidari"] = 	{
+			["Kor'kron Wind Rider"] = 10768,
+			["Battlemage Vyara"] = 10824,
+},
+["Tablets of Baa'ri"] = 	{
+			["Anchorite Ceyla"] = 10568,
+			["Arcanist Thelis"] = 10683,
+},
+["Teron Gorefiend - Lore and Legend"] = 	{
+			["Chief Apothecary Hildagard"] = 10633,
+			["Zorus the Judicator"] = 10644,
+},
+["The Art of Fel Reaver Maintenance"] = 	{
+			["Plexi"] = 10606,
+			["Nakansi"] = 10611,
+},
+["The Bloodmaul Ogres"] = 	{
+			["Commander Skyshadow"] = 10502,
+			["Tor'chunk Twoclaws"] = 10505,
+},
+["The Deathforge"] = 	{
+			["Wing Commander Nuainn"] = 10573,
+			["Blood Guard Gulmok"] = 10599,
+},
+["The Encroaching Wilderness"] = 	{
+			["Rina Moonspring"] = 10455,
+			["Gor'drek"] = 10486,
+},
+["The Fel and the Furious"] = 	{
+			["Plexi"] = 10612,
+			["Nakansi"] = 10613,
+},
+["The Final Code"] = 	{
+			["Sergeant Chawni"] = 10447,
+			["Lieutenant Meridian"] = 10446,
+},
+["The Hand of Gul'dan"] =	10680,
+["The Hermit Smith"] = 	{
+			["Ordinn Thunderfist"] = 10662,
+			["Grokom Deatheye"] = 10663,
+},
+["The Path of Conquest"] = 	{
+			["Overlord Or'barokh"] = 10750,
+			["Thane Yoregar"] = 10772,
+},
+["The Sketh'lon Wreckage"] = 	{
+			["Gryphonrider Kieran"] = 10569,
+			["Sergeant Kargrul"] = 10760,
+},
+["The Summoning Chamber"] = 	{
+			["Stormer Ewan Wildwing"] = 10585,
+			["Scout Zagran"] = 10602,
+},
+["To Legion Hold"] = 	{
+			["Wing Commander Nuainn"] = 10563,
+			["Blood Guard Gulmok"] = 10596,
+},
+["Varedis Must Be Stopped"] = 	{
+			["Exarch Onaala"] = 10651,
+			["Larissa Sunstrike"] = 10692,
+},
+["Wanted: Uvuros, Scourge of Shadowmoon"] =	10647,
+["Zeth'Gor Must Burn!"] = 	{
+			["Wing Commander Dabir'ee"] = 10895,
+			["Captain Darkhowl"] = 10792,
+},
 
 
 
@@ -14337,190 +14480,169 @@ AI_VoiceOverData_Vanilla.QuestIDLookup = {
 			["Prophet Velen"] = 9555,
 },
 
+["Minions of the Shadow Council"] = 	{
+			["Stormer Ewan Wildwing"] = 10582,
+			["Scout Zagran"] = 10600,
 
-["Capture the Weapons"] = 	{
-			["Ordinn Thunderfist"] = 10626,
-			["Grokom Deatheye"] = 10627,
+},
+["Mission: The Abyssal Shelf"] = 	{
+			["Wing Commander Gryphongar"] = 10163,
+			["Forward Commander To'arch"] = 10162,
 
 },
 
-["Cho'war the Pillager"] = 	{
-			["Elder Yorley"] = 9946,
-			["Arechron"] = 9955,
-
-},
-
-["Clefthoof Mastery"] = 	{
-			["Hemet Nesingwary"] = 		{
-				["A fair start.  But that's just the beginning"] = 9789,
-				["Impressive.  Most impressive"] = 9850,
-				["You did it!  You took down Banthar!  I never had a doubt"] = 9851,
-
-			},
-
-},
-
-["Destroy the Legion"] = 	{
-			["Vindicator Vedaar"] = 9516,
-			["Valusha"] = 9534,
-
-},
-
-["Diabolical Plans"] = 	{
-			["Vindicator Vedaar"] = 9520,
-			["Valusha"] = 9535,
-
-},
-
-["Diplomatic Measures"] = 10107,
-["Disrupt Their Reinforcements"] = 	{
-			["Forward Commander Kingston"] = 10144,
-			["Forward Commander To'arch"] = 10208,
-
-},
-
-["Dissension Amongst the Ranks..."] = 	{
-			["Overlord Or'barokh"] = 10769,
-			["Thane Yoregar"] = 10776,
-
-},
-
-["Escape from Firewing Point!"] = 	{
-			["Captain Auric Sunchaser"] = 10051,
-			["Advisor Faila"] = 10052,
-
-},
-
-["Find the Deserter"] =	10759,
-
-["Fire Brigade Practice"] = 	{
-			["Costumed Orphan Matron"] = 		{
-				["You're wet and smudged with soot!  You"] = 11360,
-				["You're smudged with soot!  You must"] = 11439,
-
-			},
-
-},
-
-["Gaining Access"] = 	{
-			["Wing Commander Nuainn"] = 10589,
-			["Blood Guard Gulmok"] = 10604,
-
-},
-["Gorgrom the Dragon-Eater"] = 	{
-			["Rexxar"] = 10723,
-			["Commander Haephus Stonewall"] = 10802,
-
-},
-["Heart of Rage"] = 	{
-			["Force Commander Danath Trollbane"] = 9607,
-			["Nazgrel"] = 9608,
-
-},
-
-["Helping the Cenarion Post"] = 	{
-			["Thiah Redmane"] = 		{
-				["Oh, goodness, you must be the help I requested weeks ago from Falcon Watch"] = 10442,
-				["Oh, goodness, you must be the help that I requested from the Temple of Telhamat"] = 10443,
-
-			},
-
-},
-["Illidari-Bane Shard"] = 	{
-			["Ordinn Thunderfist"] = 10621,
-			["Grokom Deatheye"] = 10623,
-
-},
-
-["Inspecting the Ruins"] = 	{
-			["Inspector Tarem"] = 		{
-				["It's good to see that Captain Vimes is finally assigning others"] = 11123,
-				["<The inspector regards you with what can only be distrust.>"] = 11124,
-
-			},
-
-},
-
-["Into the Churning Gulch"] =	10799,
-["Invasion Point: Cataclysm"] = 	{
-			["Plexi"] = 10766,
-			["Nakansi"] = 10767,
-
-},
-
-["It's a Trap!"] = 	{
-			["Rexxar"] = 10785,
-			["Commander Haephus Stonewall"] = 10801,
-
-},
-
-["Kill the Shadow Council!"] = 	{
-			["Lieutenant Gravelhammer"] = 10042,
-			["Advisor Faila"] = 10043,
-
-},
-
-["Kill Them All!"] = 	{
-			["Arcanist Thelis"] = 11094,
-			["Anchorite Ceyla"] = 11099,
-
-},
-
-["More Marks of Sargeras"] =	10827,
-["More Sunfury Signets"] =	10658,
-["Single Mark of Sargeras"] =	10828,
-["Single Sunfury Signet"] =	10659,
-
-["Killing the Crawlers"] = 	{
-			["Commander Skyshadow"] = 10927,
-			["Tor'chunk Twoclaws"] = 10928,
-
-},
-
-["Learning to Fly"] = 	{
-			["Ilsa Blusterbrew"] = 11497,
-			["Olrokk"] = 11498,
-
-},
-["Letting Earthbinder Tavgren Know"] =	10006,
-["Magical Disturbances"] = 	{
-			["Andarl"] = 10026,
-			["Kurgatok"] = 10027,
-
-},
-["Marks of Sargeras"] = 	{
-			["Adyen the Lightwarden"] = 10653,
-			["Harbinger Saronen"] = 10826,
-
-},
-["Master of Elixirs"] = 	{
-			["Lorokeem"] = 		{
-				["You want to learn from me?  Hmmm, yes.  Perhaps you'll be a suitable student."] = 10906,
-				["You are very good with elixirs, if these are any indication.  You will make a fine"] = 10902,
+["Mog'dorg the Wizened"] = 	{
+			["Mog'dorg the Wizened"] = 		{
+				["Grok said that I am wise?  I don't know"] = 10983,
+				["Finally, Chort has sent me someone who looks "] = 10989,
 
 			},
 },
-["Master of Potions"] = 	{
-			["Lauranna Thar'well"] = 		{
-				["Excellent!  It looks like you're eager to learn, so let's get to it.  I will teach you how to make"] = 10897,
-				["You want me to help you with your study of potions"] = 10902,
+["Murkblood Invaders"] = 	{
+			["Arechron"] = 9871,
+			["Garrosh"] = 9872,
+
+},
+["News of Victory"] = 	{
+			["Kurdran Wildhammer"] = 10744,
+			["Overlord Or'barokh"] = 10745,
+},
+["Now This is Ram Racing... Almost"] = 	{
+			["Neill Ramstein"] = 11318,
+			["Ram Master Ray"] = 11409,
+},
+
+["Oshu'gun Crystal Powder"] = 	{
+			["Chief Researcher Amereldine"] = 10582,
+			["Chief Researcher Kartos"] = 10600,
+
+},
+["Playing with Fire"] =	11882,
+["Protecting Our Own"] = 	{
+			["Rina Moonspring"] = 10457,
+			["Gor'drek"] = 10488,
+},
+["Report to Nazgrel"] = 	{
+			["Nazgrel"] = 		{
+				["We've already lost many brave warriors to this cursed wasteland"] = 10291,
+				["It is good to hear of all your moves against the fel orcs,"] = 10875,
 
 			},
 },
-
-["Master of Transmutation"] = 	{
-			["Zarevhi"] = 		{
-				["Excellent work, <name>!  These transmutations"] = 10899,
-				["You want me to help you with your study of transmutations"] = 10907,
+["Protecting Our Own"] = 	{
+			["Rina Moonspring"] = 10457,
+			["Gor'drek"] = 11034,
+},
+["Restorer No More"] = 	{
+			["Archmage Leryda"] = 11034,
+			["Soridormi"] = 11104,
+},
+["Return to the Abyssal Shelf"] = 	{
+			["Gryphoneer Windbellow"] = 10346,
+			["Wing Commander Brack"] = 10347,
+},
+["Setting Up the Bomb"] = 	{
+			["Wing Commander Nuainn"] = 10572,
+			["Blood Guard Gulmok"] = 10597,
+},
+["Showdown"] = 	{
+			["Rexxar"] = 10742,
+			["Baron Sablemane"] = 10806,
+},
+["Shutting Down Manaforge Ara"] = 	{
+			["Anchorite Karja"] = 10323,
+			["Spymaster Thalodien"] = 10365,
+},
+["Shutting Down Manaforge B'naar"] = 	{
+			["Anchorite Karja"] = 10299,
+			["Spymaster Thalodien"] = 10329,
+},
+["Shutting Down Manaforge Coruu"] = 	{
+			["Anchorite Karja"] = 10321,
+			["Caledis Brightdawn"] = 10330,
+},
+["Shutting Down Manaforge Duro"] = 	{
+			["Anchorite Karja"] = 10322,
+			["Spymaster Thalodien"] = 10338,
+},
+["Slaughter at Boulder'mok"] = 	{
+			["Tor'chunk Twoclaws"] = 10786,
+			["Lieutenant Fairweather"] = 10803,
+},
+["Sunfury Signets"] = 	{
+			["Magistrix Fyalenn"] = 10656,
+			["Battlemage Vyara"] = 10824,
+},
+["Tabards of the Illidari"] = 	{
+			["Kor'kron Wind Rider"] = 10768,
+			["Battlemage Vyara"] = 10824,
+},
+["Tablets of Baa'ri"] = 	{
+			["Anchorite Ceyla"] = 10568,
+			["Arcanist Thelis"] = 10683,
+},
+["Teron Gorefiend - Lore and Legend"] = 10633,
+["The Art of Fel Reaver Maintenance"] = 	{
+			["Plexi"] = 10606,
+			["Nakansi"] = 10611,
+},
+["The Bloodmaul Ogres"] = 	{
+			["Commander Skyshadow"] = 10502,
+			["Tor'chunk Twoclaws"] = 10505,
+},
+["The Deathforge"] = 	{
+			["Stormer Ewan Wildwing"] = 10573,
+			["Scout Zagran"] = 10599,
+},
+["The Encroaching Wilderness"] = 	{
+			["Rina Moonspring"] = 10455,
+			["Gor'drek"] = 10486,
+},
+["The Fel and the Furious"] = 	{
+			["Plexi"] = 10612,
+			["Nakansi"] = 10613,
+},
+["The Final Code"] = 	{
+			["Tooki"] = 10447,
+			["Jenai Starwhisper"] = 10446,
+},
+["The Hand of Gul'dan"] =	10680,
+["The Hermit Smith"] = 		{
+			["David Wayne"] = 		{
+				["Ordinn sent you with these? <The smith examines the ingots"] = 10662,
+				["<The orc shakes his head at his failure."] = 10663,
 
 			},
 },
-
-["Menacing Marshfangs"] = 	{
-			["Noraani"] = 9791,
-			["Reavij"] = 9770,
-
+["The Path of Conquest"] = 	{
+			["Kor'kron Wind Rider"] = 10750,
+			["Wildhammer Gryphon Rider"] = 10772,
 },
+["The Sketh'lon Wreckage"] = 	{
+			["Gryphonrider Kieran"] = 10569,
+			["Sergeant Kargrul"] = 10760,
+},
+["The Summoning Chamber"] = 	{
+			["Stormer Ewan Wildwing"] = 10585,
+			["Scout Zagran"] = 10602,
+},
+["To Legion Hold"] = 	{
+			["Wing Commander Nuainn"] = 10563,
+			["Blood Guard Gulmok"] = 10596,
+},
+["Varedis Must Be Stopped"] = 	{
+			["Exarch Onaala"] = 10651,
+			["Larissa Sunstrike"] = 10692,
+},
+["Wanted: Uvuros, Scourge of Shadowmoon"] = 	{
+			["Warcaller Beersnout"] = 10648,
+			["Warcaller Sardon Truslice"] = 10647,
+},
+["Zeth'Gor Must Burn!"] = 	{
+			["Wing Commander Dabir'ee"] = 10895,
+			["Captain Darkhowl"] = 10792,
+},
+
 
 
 
