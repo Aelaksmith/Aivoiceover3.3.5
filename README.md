@@ -9,4 +9,4 @@ And used some data from Darkneo https://www.curseforge.com/members/darkneo/proje
 
 Please let me know if there are any bugs, likely from quest chains of the same name or alliance vs horde issues
 
-https://discord.gg/uH8fss4m 
+[https://discord.gg/uH8fss4m ](https://discord.gg/kttdfFq9Ft)
