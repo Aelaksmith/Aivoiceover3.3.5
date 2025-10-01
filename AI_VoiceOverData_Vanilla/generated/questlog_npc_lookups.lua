@@ -3034,6 +3034,5 @@ AI_VoiceOverData_Vanilla.NPCIDLookupByQuestID = {
 	[9388] = 16818,
 	[7670] = 5149,
 	[11550] = 25167,
-
 	
 }

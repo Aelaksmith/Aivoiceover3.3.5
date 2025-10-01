@@ -1,0 +1,8 @@
+=== INFORME DETALLADO DE PROCESAMIENTO DE NPCS ===
+
+MISIÓN 12593:
+  NPCs con archivos recién creados:
+    - Inicio: 25462
+    - Fin: 28357
+
+=== FIN DEL INFORME ===
